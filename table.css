@@ -1,0 +1,18 @@
+.board{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.board1{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+.board2{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: 1px solid black;
+}
